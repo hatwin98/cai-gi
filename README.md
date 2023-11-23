@@ -23,6 +23,12 @@ Public Github Repo: https://github.com/hatwin98/cai-gi/
 - User should be able to check the 5 day forecast.
 - Shows date, humidity, and temperatures.
 
+
+## Screenshot 
+
+<img width="1316" alt="Screenshot weather" src="https://github.com/hatwin98/cai-gi/assets/143030127/83ceabac-0081-438b-b413-90cbbb01cd80">
+
+
 ## Summary
 
 The purpose of this challenge was to use server side apis in order to create a weather application that shows the 5 day forecast. 
